@@ -1,0 +1,21 @@
+name: Daily Backup
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 2 * * *'  # 每天凌晨2点执行备份
+  workflow_dispatch:  # 允许手动触发备份
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Create backup archive
+        run: |
+          zip -r vault-backup-$(date +%Y%m%d).zip .
+      - name: Upload backup artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: vault-backup-${{ github.sha }}
+          path: vault-backup-*.zip
