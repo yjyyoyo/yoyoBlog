@@ -1,0 +1,50 @@
+name: Deploy Quartz site to GitHub Pages
+on:
+  push:
+    branches:
+      - v4
+  repository_dispatch:
+    types: [trigger-build]
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 1. 下载博客引擎代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: 2. 清空默认示例文件
+        run: rm -rf content/*
+      - name: 3. 下载私人笔记 (从仓库A拉取)
+        uses: actions/checkout@v4
+        with:
+          repository: 你的GitHub用户名/你的仓库A名称 # 【这里必须修改！】例如：zhangsan/Obsidian-Notes
+          token: ${{ secrets.PAT_TOKEN }}
+          path: content
+          fetch-depth: 0
+      - name: 4. 配置 Node 环境
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: 5. 组装并生成网页
+        run: |
+          npm ci
+          npx quartz build
+      - name: 6. 打包网页文件
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: 7. 发布到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
