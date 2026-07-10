@@ -4,7 +4,7 @@ title:YoYo's Blog
 
 
 **导航区**
-[标签分类](/tags)
+[👉 点击查看全站标签分类](/tags/)
 
 
  

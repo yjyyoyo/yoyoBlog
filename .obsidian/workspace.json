@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "755e64cc4b5dc6eb",
+        "id": "eebc90b525ad2d7a",
         "type": "tabs",
         "children": [
           {
-            "id": "00573237819be040",
+            "id": "dba1b460b7682e84",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -193,8 +193,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00573237819be040",
+  "active": "dba1b460b7682e84",
   "lastOpenFiles": [
+    "tags.md",
     "index.md",
     "0工具安装配置/0.0工具安装目录.md",
     "未命名.canvas",
