@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "39158162170cdd4d",
+        "id": "ffffaba18fdbb4a3",
         "type": "tabs",
         "children": [
           {
-            "id": "c52e868f27d1e6ce",
+            "id": "fd3013d15be582d8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -189,13 +189,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d25066d56e3fa6b4",
+  "active": "fd3013d15be582d8",
   "lastOpenFiles": [
     "0工具安装配置/0.0工具安装目录.md",
+    "未命名.canvas",
     "2023-10-25.md",
     "index.md",
     "tags.md",
-    "未命名.canvas",
     "0工具安装配置",
     "README.md",
     "quartz-blog",
