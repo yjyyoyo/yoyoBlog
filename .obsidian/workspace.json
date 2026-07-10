@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b48cd8edcb238fc7",
+        "id": "493b0ca8238e5bc8",
         "type": "tabs",
         "children": [
           {
-            "id": "b28e6254aeab874f",
+            "id": "e5cd652de50f1252",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,9 +191,10 @@
   },
   "active": "329976786281cc7d",
   "lastOpenFiles": [
-    "README.md",
+    "0工具安装配置/0.0工具安装目录.md",
     "index.md",
-    "未命名",
+    "0工具安装配置",
+    "README.md",
     "quartz-blog",
     "新建文件夹",
     "新建 文本文档.txt",
