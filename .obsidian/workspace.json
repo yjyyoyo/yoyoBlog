@@ -11,10 +11,14 @@
             "id": "d1b7be68c96761cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0工具安装配置/0.0工具安装目录.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "0.0工具安装目录"
             }
           }
         ]
@@ -191,9 +195,10 @@
   },
   "active": "d1b7be68c96761cf",
   "lastOpenFiles": [
+    "2023-10-25.md",
+    "0工具安装配置/0.0工具安装目录.md",
     "index.md",
     "tags.md",
-    "0工具安装配置/0.0工具安装目录.md",
     "未命名.canvas",
     "0工具安装配置",
     "README.md",
