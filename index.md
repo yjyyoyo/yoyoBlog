@@ -1,5 +1,5 @@
 ---
-title:"YoYo's Blog"
+title: YoYo's Blog
 ---
 
 **导航区**
