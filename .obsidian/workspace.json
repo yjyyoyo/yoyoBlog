@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b487dc10aa87b407",
+        "id": "898e6bb73097ae0c",
         "type": "tabs",
         "children": [
           {
-            "id": "438624061a4f31df",
+            "id": "0a6f59e0b48d97f6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -189,8 +189,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "438624061a4f31df",
+  "active": "0a6f59e0b48d97f6",
   "lastOpenFiles": [
+    "1CSharp开发/1.2Winform/1.2.1Winform学习记录.md",
+    "1CSharp开发/1.1WPF/1.1.1WPF学习记录.md",
     "1CSharp开发/1.2Winform",
     "1CSharp开发/1.1WPF",
     "1CSharp开发",
