@@ -1,7 +1,6 @@
 ---
-title:YoYo's Blog
+title:"YoYo's Blog"
 ---
-
 
 **导航区**
 [👉 点击查看全站标签分类](/tags/)
