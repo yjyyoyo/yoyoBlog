@@ -11,10 +11,14 @@
             "id": "4c237d8053ee3785",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "YoYo's Blog.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "YoYo's Blog"
             }
           }
         ]
