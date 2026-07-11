@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5f4790826646ca8d",
+        "id": "c526d34e2ac97f32",
         "type": "tabs",
         "children": [
           {
-            "id": "75dbc8c9e030fe78",
+            "id": "19459166e933fcc7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -189,12 +189,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75dbc8c9e030fe78",
+  "active": "19459166e933fcc7",
   "lastOpenFiles": [
+    "0工具安装配置/0.2Obsidian常用插件.md",
     "Pasted image 20260711142901.png",
     "index.md",
     "0工具安装配置/0.3 个人博客.md",
-    "0工具安装配置/0.2Obsidian常用插件.md",
     "0工具安装配置/0.1常用工具使用教程.md",
     "0工具安装配置/0.0工具安装目录.md",
     "1CSharp开发/1.1WPF/1.1.1WPF学习记录.md",
