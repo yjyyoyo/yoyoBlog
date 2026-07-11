@@ -1158,7 +1158,7 @@
         },
         "inlineCode": {
           "backgroundColor": "#E3E7DA",
-          "textColor": "--code-normal"
+          "textColor": "#000000"
         },
         "prompts": {
           "editedPromptColors": {},

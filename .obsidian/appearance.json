@@ -1,7 +1,7 @@
 {
   "theme": "moonstone",
-  "cssTheme": "Solarized",
-  "accentColor": "#bedeb5",
+  "cssTheme": "Minimal",
+  "accentColor": "#fbd341",
   "interfaceFontFamily": "华文中宋",
   "monospaceFontFamily": "Times New Roman",
   "textFontFamily": "华文中宋",
