@@ -5,7 +5,7 @@
   "darkTheme": "obsidian-theme",
   "lightTheme": "ayu-dark",
   "preferThemeColors": true,
-  "inlineHighlighting": false,
+  "inlineHighlighting": true,
   "ecDefaultShowLineNumbers": true,
   "ecDefaultWrap": false,
   "ecDefaultFrame": "auto"
