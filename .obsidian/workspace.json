@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "61292aa234603c17",
+        "id": "35439f338cbf869b",
         "type": "tabs",
         "children": [
           {
-            "id": "8d36ba7eb1c5a816",
+            "id": "7d7be15fe68e31ba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "index"
             }
           }
         ]
@@ -189,8 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "329976786281cc7d",
+  "active": "7d7be15fe68e31ba",
   "lastOpenFiles": [
+    "1CSharp开发/1.2Winform/1.2.1Winform学习记录.md",
+    "index.md",
+    "tags.md",
     "1CSharp开发/1.1WPF/1.1.0WPF知识图谱.canvas",
     "未命名.md",
     "0工具安装配置/0.2Obsidian常用插件.md",
@@ -198,15 +205,12 @@
     "1CSharp开发/1.1WPF/1.1.1WPF学习记录.md",
     "0工具安装配置/0.0工具安装目录.md",
     "0工具安装配置/0.1常用工具使用教程.md",
-    "index.md",
     "0工具安装配置/未命名.md",
-    "1CSharp开发/1.2Winform/1.2.1Winform学习记录.md",
     "1CSharp开发/1.2Winform",
     "1CSharp开发/1.1WPF",
     "1CSharp开发",
     "未命名.canvas",
     "2023-10-25.md",
-    "tags.md",
     "0工具安装配置",
     "README.md",
     "quartz-blog",
