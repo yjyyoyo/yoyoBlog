@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df74b2cd568782ba",
+        "id": "40939651f82752ea",
         "type": "tabs",
         "children": [
           {
-            "id": "4210f0cf4f18c601",
+            "id": "a37a92fe51038805",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -189,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4210f0cf4f18c601",
+  "active": "329976786281cc7d",
   "lastOpenFiles": [
     "0工具安装配置/0.1常用工具使用教程.md",
     "0工具安装配置/0.0工具安装目录.md",
