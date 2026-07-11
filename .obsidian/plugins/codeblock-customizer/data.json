@@ -1063,48 +1063,48 @@
   },
   "ExcludeLangs": "dataview, ad-*",
   "SelectedTheme": {
-    "baseTheme": "Solarized",
+    "baseTheme": "Obsidian",
     "colors": {
       "dark": {
         "codeblock": {
-          "activeLineColor": "#073642",
-          "backgroundColor": "#002B36",
-          "highlightColor": "#054b5c",
+          "activeLineColor": "--color-base-30",
+          "backgroundColor": "--code-background",
+          "highlightColor": "--text-highlight-bg",
           "alternateHighlightColors": {},
           "languageBorderColors": {},
           "textColor": "#A30505",
-          "bracketHighlightColorMatch": "#36e920",
+          "bracketHighlightColorMatch": "#f33bff",
           "bracketHighlightColorNoMatch": "#FF0000",
-          "bracketHighlightBackgroundColorMatch": "#073642",
-          "bracketHighlightBackgroundColorNoMatch": "#073642",
+          "bracketHighlightBackgroundColorMatch": "--color-base-30",
+          "bracketHighlightBackgroundColorNoMatch": "--color-base-30",
           "selectionMatchHighlightColor": "#99ff7780"
         },
         "header": {
-          "backgroundColor": "#0a4554",
-          "textColor": "#DADADA",
-          "lineColor": "#46cced",
-          "codeBlockLangTextColor": "#000000",
-          "codeBlockLangBackgroundColor": "#008080"
+          "backgroundColor": "--code-background",
+          "textColor": "--text-normal",
+          "lineColor": "--color-base-30",
+          "codeBlockLangTextColor": "--code-comment",
+          "codeBlockLangBackgroundColor": "--code-background"
         },
         "gutter": {
-          "textColor": "#6c6c6c",
-          "backgroundColor": "#073642",
-          "activeLineNrColor": "#DADADA"
+          "textColor": "--text-faint",
+          "backgroundColor": "--code-background",
+          "activeLineNrColor": "--text-muted"
         },
         "inlineCode": {
-          "backgroundColor": "#054b5c",
-          "textColor": "#DADADA"
+          "backgroundColor": "--code-background",
+          "textColor": "--code-normal"
         },
         "prompts": {
           "editedPromptColors": {},
           "editedRootPromptColors": {}
         },
         "groupedCodeBlocks": {
-          "activeTabBackgroundColor": "#B58900",
-          "activeTabTextColor": "#000000",
-          "hoverTabBackgroundColor": "#00AAAA",
-          "hoverTabTextColor": "#FFFFFF",
-          "headerLineColor": "#46cced"
+          "activeTabBackgroundColor": "#3A3A3A",
+          "activeTabTextColor": "--code-comment",
+          "hoverTabBackgroundColor": "#333333",
+          "hoverTabTextColor": "#CCCCCC",
+          "headerLineColor": "--color-base-30"
         },
         "annotations": {
           "colors": {
@@ -1116,7 +1116,7 @@
             "see": "#53dfdd"
           }
         },
-        "editorActiveLineColor": "#468eeb33",
+        "editorActiveLineColor": "--color-base-20",
         "frontmatter": {
           "colors": {
             "atom": "--code-important",
@@ -1132,44 +1132,44 @@
       },
       "light": {
         "codeblock": {
-          "activeLineColor": "#EDE8D6",
-          "backgroundColor": "#FCF6E4",
-          "highlightColor": "#E9DFBA",
+          "activeLineColor": "--color-base-30",
+          "backgroundColor": "--code-background",
+          "highlightColor": "--text-highlight-bg",
           "alternateHighlightColors": {},
           "languageBorderColors": {},
           "textColor": "#A30505",
-          "bracketHighlightColorMatch": "#ff01f7",
+          "bracketHighlightColorMatch": "#f33bff",
           "bracketHighlightColorNoMatch": "#FF0000",
-          "bracketHighlightBackgroundColorMatch": "#EDE8D6",
-          "bracketHighlightBackgroundColorNoMatch": "#EDE8D6",
+          "bracketHighlightBackgroundColorMatch": "--color-base-30",
+          "bracketHighlightBackgroundColorNoMatch": "--color-base-30",
           "selectionMatchHighlightColor": "#99ff7780"
         },
         "header": {
-          "backgroundColor": "#D5CCB4",
-          "textColor": "#866704",
-          "lineColor": "#EDD489",
-          "codeBlockLangTextColor": "#C25F30",
-          "codeBlockLangBackgroundColor": "#B8B5AA"
+          "backgroundColor": "--code-background",
+          "textColor": "--text-normal",
+          "lineColor": "--color-base-30",
+          "codeBlockLangTextColor": "--code-comment",
+          "codeBlockLangBackgroundColor": "--code-background"
         },
         "gutter": {
-          "textColor": "#6c6c6c",
-          "backgroundColor": "#EDE8D6",
-          "activeLineNrColor": "#D8A609"
+          "textColor": "--text-faint",
+          "backgroundColor": "--code-background",
+          "activeLineNrColor": "--text-muted"
         },
         "inlineCode": {
-          "backgroundColor": "#E9DFBA",
-          "textColor": "#866704"
+          "backgroundColor": "--code-background",
+          "textColor": "--code-normal"
         },
         "prompts": {
           "editedPromptColors": {},
           "editedRootPromptColors": {}
         },
         "groupedCodeBlocks": {
-          "activeTabBackgroundColor": "#FFD700",
-          "activeTabTextColor": "#C25F30",
-          "hoverTabBackgroundColor": "#A6A18F",
-          "hoverTabTextColor": "#C25F30",
-          "headerLineColor": "#EDD489"
+          "activeTabBackgroundColor": "#E6E6E6",
+          "activeTabTextColor": "--code-comment",
+          "hoverTabBackgroundColor": "#F0F0F0",
+          "hoverTabTextColor": "#888888",
+          "headerLineColor": "--color-base-30"
         },
         "annotations": {
           "colors": {
@@ -1181,7 +1181,7 @@
             "see": "#00bfbc"
           }
         },
-        "editorActiveLineColor": "#60460633",
+        "editorActiveLineColor": "--color-base-20",
         "frontmatter": {
           "colors": {
             "atom": "--code-important",
@@ -1197,7 +1197,7 @@
       }
     }
   },
-  "ThemeName": "Solarized",
+  "ThemeName": "Obsidian",
   "newThemeName": "",
   "newPromptName": "",
   "alternateHighlightColorName": "",
