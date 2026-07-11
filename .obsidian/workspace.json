@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1CSharp开发/1.1WPF/1.1.1WPF学习记录.md",
+                "file": "0工具安装配置/0.1常用工具使用教程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1.1WPF学习记录"
+              "title": "0.1常用工具使用教程"
             }
           }
         ]
@@ -195,12 +195,13 @@
   },
   "active": "0a6f59e0b48d97f6",
   "lastOpenFiles": [
-    "1CSharp开发/1.2Winform/1.2.1Winform学习记录.md",
     "1CSharp开发/1.1WPF/1.1.1WPF学习记录.md",
+    "0工具安装配置/0.1常用工具使用教程.md",
+    "0工具安装配置/0.0工具安装目录.md",
+    "1CSharp开发/1.2Winform/1.2.1Winform学习记录.md",
     "1CSharp开发/1.2Winform",
     "1CSharp开发/1.1WPF",
     "1CSharp开发",
-    "0工具安装配置/0.0工具安装目录.md",
     "index.md",
     "未命名.canvas",
     "2023-10-25.md",
