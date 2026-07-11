@@ -1,5 +1,11 @@
 {
   "theme": "moonstone",
   "cssTheme": "Material Gruvbox",
-  "accentColor": ""
+  "accentColor": "",
+  "interfaceFontFamily": "华文中宋",
+  "monospaceFontFamily": "Times New Roman",
+  "textFontFamily": "华文中宋",
+  "enabledCssSnippets": [
+    "fix-codeblock"
+  ]
 }

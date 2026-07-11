@@ -1,0 +1,21 @@
+/* 阅读模式：清空主题对代码块的强制样式，让Codeblock Customizer接管 */
+.markdown-preview-view pre[class*="language-"],
+.markdown-preview-view pre[class*="language-"] code {
+    background: inherit !important;
+    color: inherit !important;
+    font-family: inherit !important;
+    font-size: inherit !important;
+    padding: 0 !important;
+    border: none !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+}
+
+/* 重置主题对代码块外层容器的覆盖 */
+.markdown-preview-view .el-pre {
+    background: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
