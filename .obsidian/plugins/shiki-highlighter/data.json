@@ -3,9 +3,9 @@
   "customThemeFolder": "",
   "customLanguageFolder": "",
   "darkTheme": "obsidian-theme",
-  "lightTheme": "github-light",
+  "lightTheme": "ayu-dark",
   "preferThemeColors": true,
-  "inlineHighlighting": true,
+  "inlineHighlighting": false,
   "ecDefaultShowLineNumbers": true,
   "ecDefaultWrap": false,
   "ecDefaultFrame": "auto"
