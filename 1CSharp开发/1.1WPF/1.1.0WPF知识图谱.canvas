@@ -18,7 +18,6 @@
 		{"id":"8aecfa97a91548d7","type":"text","text":"MVVM模式(6)\n","x":-416,"y":-562,"width":171,"height":60},
 		{"id":"9653690f4c855adb","type":"text","text":"依赖注入/IOC","x":-162,"y":-562,"width":156,"height":60},
 		{"id":"4b22fddaa3090dea","type":"text","text":"Dispatcher线程模型(10)","x":64,"y":-562,"width":231,"height":60},
-		{"id":"a71a1005ba2790c6","type":"text","text":"项目结构与构建","x":-418,"y":-720,"width":173,"height":60},
 		{"id":"5e385653bcbd3ae5","type":"text","text":"性能优化","x":-144,"y":-720,"width":116,"height":60},
 		{"id":"0bc1de24051da87c","type":"text","text":"【工程落地层】","x":-738,"y":-720,"width":250,"height":60,"color":"5"},
 		{"id":"6dbb904518748ffb","type":"text","text":"命令系统(5)\n(触发,控制)","x":-448,"y":-320,"width":136,"height":88},
@@ -27,7 +26,8 @@
 		{"id":"814ce32ede38e08f","type":"file","file":"Pasted image 20260711142901.png","x":-144,"y":-477,"width":250,"height":134},
 		{"id":"f683a092466cb1dc","type":"text","text":"ViewModel","x":-496,"y":-435,"width":153,"height":50},
 		{"id":"3c07c853f632b644","type":"text","text":"View","x":-611,"y":-435,"width":85,"height":50},
-		{"id":"6629ce692cd1fbc6","type":"text","text":"控件体系(3)","x":-80,"y":-76,"width":143,"height":58}
+		{"id":"6629ce692cd1fbc6","type":"text","text":"控件体系(3)","x":-80,"y":-76,"width":143,"height":58},
+		{"id":"a71a1005ba2790c6","type":"text","text":"项目结构与构建","x":-448,"y":-800,"width":173,"height":60}
 	],
 	"edges":[
 		{"id":"b438d0ad571bb1a8","fromNode":"a71a1005ba2790c6","fromSide":"right","toNode":"5e385653bcbd3ae5","toSide":"left"},
