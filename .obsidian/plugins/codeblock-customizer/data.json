@@ -1157,7 +1157,7 @@
           "activeLineNrColor": "--text-muted"
         },
         "inlineCode": {
-          "backgroundColor": "#E3E7DA",
+          "backgroundColor": "#E9E660",
           "textColor": "#000000"
         },
         "prompts": {
