@@ -1,21 +1,87 @@
-/* 阅读模式：清空主题对代码块的强制样式，让Codeblock Customizer接管 */
-.markdown-preview-view pre[class*="language-"],
-.markdown-preview-view pre[class*="language-"] code {
-    background: inherit !important;
-    color: inherit !important;
-    font-family: inherit !important;
-    font-size: inherit !important;
-    padding: 0 !important;
+/* ========== 【必写】第一步：清空全局主题对代码块的强制样式 ========== */
+/* 作用：抹除主题强加的背景、颜色、边框、内边距，让插件样式完全透出来 */
+.markdown-preview-view pre,
+.markdown-preview-view pre code,
+.markdown-preview-view .el-pre,
+.markdown-preview-view pre[class*="language-"] {
+    background: unset !important;
+    background-color: unset !important;
+    color: unset !important;
     border: none !important;
     border-radius: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
     box-shadow: none !important;
+    font-family: unset !important;
+    font-size: unset !important;
+    line-height: unset !important;
     text-shadow: none !important;
 }
 
-/* 重置主题对代码块外层容器的覆盖 */
-.markdown-preview-view .el-pre {
-    background: transparent !important;
-    border: none !important;
-    padding: 0 !important;
-    margin: 0 !important;
+/* 可选：同步重置行内代码的主题样式，保持风格统一 */
+.markdown-preview-view :not(pre) > code {
+    background: unset !important;
+    color: unset !important;
+    padding: unset !important;
+    border-radius: unset !important;
+}
+
+
+/* ========== 【可选增强】第二步：Codeblock Customizer 专属美化 ========== */
+/* 作用：基于插件专属类名美化外观，不会被主题覆盖，可自行改色值、尺寸 */
+
+/* 代码块外层总容器 */
+.cb-customizer-block {
+    background-color: #f8f9fa !important; /* 浅色背景，按需修改 */
+    border-radius: 8px !important;
+    border: 1px solid #e5e7eb !important;
+    margin: 16px 0 !important;
+    overflow: hidden; /* 让圆角裁切生效 */
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+}
+
+/* 代码块顶部标题栏（语言标签+复制按钮所在栏） */
+.cb-customizer-header {
+    background-color: #e9ecef !important;
+    padding: 6px 16px !important;
+    font-size: 13px !important;
+    color: #495057 !important;
+    border-bottom: 1px solid #dee2e6 !important;
+}
+
+/* 代码正文区域 */
+.cb-customizer-code {
+    padding: 16px !important;
+    font-size: 14px !important;
+    line-height: 1.6 !important;
+}
+
+/* 行号样式 */
+.cb-line-numbers .cb-line-num {
+    color: #adb5bd !important;
+    padding-right: 14px !important;
+    border-right: 1px solid #dee2e6 !important;
+    margin-right: 14px !important;
+}
+
+/* 行高亮底色 */
+.cb-highlight-line {
+    background-color: #fff3cd !important; /* 浅黄高亮，可自行改色 */
+}
+
+/* 复制按钮 hover 效果 */
+.cb-copy-button {
+    opacity: 0.8;
+    transition: opacity 0.2s ease;
+}
+.cb-copy-button:hover {
+    opacity: 1;
+}
+
+
+/* ========== 实时预览兼容（效果有限，插件原生支持不全） ========== */
+/* 说明：Codeblock Customizer 核心效果只在阅读模式完整，实时预览只能做基础美化 */
+.markdown-source-view.mod-cm6 .cb-customizer-block {
+    background-color: #f8f9fa !important;
+    border-radius: 8px !important;
 }
