@@ -11,10 +11,17 @@
             "id": "dfb0e8df12568841",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "canvas",
+              "state": {
+                "file": "1CSharp开发/1.1WPF/1.1.0WPF知识图谱.canvas",
+                "viewState": {
+                  "x": -90.5,
+                  "y": -220,
+                  "zoom": -0.6789753148042212
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "1.1.0WPF知识图谱"
             }
           }
         ]
@@ -189,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "329976786281cc7d",
+  "active": "dfb0e8df12568841",
   "lastOpenFiles": [
     "未命名.md",
     "0工具安装配置/0.2Obsidian常用插件.md",
