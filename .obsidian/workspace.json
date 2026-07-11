@@ -11,10 +11,17 @@
             "id": "7f5d654aedc91dc5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "canvas",
+              "state": {
+                "file": "1CSharp开发/1.1WPF/1.1.0WPF知识图谱.canvas",
+                "viewState": {
+                  "x": -148.20982668588033,
+                  "y": -90.36789330954741,
+                  "zoom": -0.2681157155459126
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "1.1.0WPF知识图谱"
             }
           }
         ]
@@ -74,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0267443e05589172",
@@ -189,15 +197,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "329976786281cc7d",
+  "active": "7f5d654aedc91dc5",
   "lastOpenFiles": [
+    "1CSharp开发/1.1WPF/1.1.1WPF学习记录.md",
+    "1CSharp开发/1.1WPF/1.1.0WPF知识图谱.canvas",
+    "0工具安装配置/0.0工具安装目录.md",
     "0工具安装配置/0.1常用工具使用教程.md",
     "0工具安装配置/0.2Obsidian常用插件.md",
-    "0工具安装配置/0.0工具安装目录.md",
     "index.md",
     "未命名.md",
     "0工具安装配置/未命名.md",
-    "1CSharp开发/1.1WPF/1.1.1WPF学习记录.md",
     "1CSharp开发/1.2Winform/1.2.1Winform学习记录.md",
     "1CSharp开发/1.2Winform",
     "1CSharp开发/1.1WPF",
