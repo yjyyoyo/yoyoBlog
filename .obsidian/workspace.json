@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "35439f338cbf869b",
+        "id": "a064d10d66c58655",
         "type": "tabs",
         "children": [
           {
-            "id": "7d7be15fe68e31ba",
+            "id": "3cdc27f64b088418",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0工具安装配置/0.3 个人博客.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "0.3 个人博客"
+              "title": "新标签页"
             }
           }
         ]
@@ -193,19 +189,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d7be15fe68e31ba",
+  "active": "3cdc27f64b088418",
   "lastOpenFiles": [
-    "index.md",
-    "0工具安装配置/0.3 个人博客.md",
+    "0工具安装配置/0.0工具安装目录.md",
+    "0工具安装配置/0.1常用工具使用教程.md",
+    "1CSharp开发/1.1WPF/1.1.1WPF学习记录.md",
     "1CSharp开发/1.2Winform/1.2.1Winform学习记录.md",
+    "0工具安装配置/0.3 个人博客.md",
+    "index.md",
     "tags.md",
     "1CSharp开发/1.1WPF/1.1.0WPF知识图谱.canvas",
     "未命名.md",
     "0工具安装配置/0.2Obsidian常用插件.md",
     "Pasted image 20260711142901.png",
-    "1CSharp开发/1.1WPF/1.1.1WPF学习记录.md",
-    "0工具安装配置/0.0工具安装目录.md",
-    "0工具安装配置/0.1常用工具使用教程.md",
     "1CSharp开发/1.2Winform",
     "1CSharp开发/1.1WPF",
     "1CSharp开发",
