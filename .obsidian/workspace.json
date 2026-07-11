@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "40939651f82752ea",
+        "id": "b7084379b24ae1e8",
         "type": "tabs",
         "children": [
           {
-            "id": "a37a92fe51038805",
+            "id": "7f5d654aedc91dc5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -192,8 +192,8 @@
   "active": "329976786281cc7d",
   "lastOpenFiles": [
     "0工具安装配置/0.1常用工具使用教程.md",
-    "0工具安装配置/0.0工具安装目录.md",
     "0工具安装配置/0.2Obsidian常用插件.md",
+    "0工具安装配置/0.0工具安装目录.md",
     "index.md",
     "未命名.md",
     "0工具安装配置/未命名.md",
