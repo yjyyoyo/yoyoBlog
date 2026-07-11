@@ -9,7 +9,6 @@
 		{"id":"765710fbec0f473e","type":"text","text":"【能力增强层】","x":-736,"y":-292,"width":250,"height":60,"color":"5"},
 		{"id":"3c123f42e9ad0d4e","type":"text","text":"可视化树与逻辑树\n(window→Grid→Button)","x":170,"y":90,"width":244,"height":60},
 		{"id":"6cc3ca2e0a9694b5","type":"text","text":"布局（2）","x":-401,"y":-76,"width":143,"height":56},
-		{"id":"6629ce692cd1fbc6","type":"text","text":"控件体系(3)","x":-79,"y":-78,"width":143,"height":60},
 		{"id":"eb22a7ff845ab9c0","type":"text","text":"资源、样式(7)","x":395,"y":-292,"width":168,"height":60},
 		{"id":"4738b95ab3abec6b","type":"text","text":"触发器","x":260,"y":-292,"width":112,"height":60},
 		{"id":"f89ff6a421aafe83","type":"text","text":"模板(9)","x":116,"y":-292,"width":108,"height":60},
@@ -27,7 +26,8 @@
 		{"id":"271d54afffd7aeff","type":"text","text":"值转换器Convert(8)\n(过滤,格式化)","x":-120,"y":-320,"width":184,"height":88},
 		{"id":"814ce32ede38e08f","type":"file","file":"Pasted image 20260711142901.png","x":-144,"y":-477,"width":250,"height":134},
 		{"id":"f683a092466cb1dc","type":"text","text":"ViewModel","x":-496,"y":-435,"width":153,"height":50},
-		{"id":"3c07c853f632b644","type":"text","text":"View","x":-611,"y":-435,"width":85,"height":50}
+		{"id":"3c07c853f632b644","type":"text","text":"View","x":-611,"y":-435,"width":85,"height":50},
+		{"id":"6629ce692cd1fbc6","type":"text","text":"控件体系(3)","x":-80,"y":-76,"width":143,"height":58}
 	],
 	"edges":[
 		{"id":"b438d0ad571bb1a8","fromNode":"a71a1005ba2790c6","fromSide":"right","toNode":"5e385653bcbd3ae5","toSide":"left"},
@@ -54,6 +54,10 @@
 		{"id":"a5e0476826e36cb1","fromNode":"aceeb1df2769e5c4","fromSide":"top","toNode":"8aecfa97a91548d7","toSide":"bottom"},
 		{"id":"fa81ce629d4aca43","fromNode":"aceeb1df2769e5c4","fromSide":"top","toNode":"6dbb904518748ffb","toSide":"top"},
 		{"id":"2090e3148c20e0df","fromNode":"eb22a7ff845ab9c0","fromSide":"top","toNode":"f89ff6a421aafe83","toSide":"top"},
-		{"id":"f81c3c8c728b1b25","fromNode":"eb22a7ff845ab9c0","fromSide":"top","toNode":"4738b95ab3abec6b","toSide":"top"}
+		{"id":"f81c3c8c728b1b25","fromNode":"eb22a7ff845ab9c0","fromSide":"top","toNode":"4738b95ab3abec6b","toSide":"top"},
+		{"id":"f98f08418d8b4a89","fromNode":"6dbb904518748ffb","fromSide":"left","toNode":"8aecfa97a91548d7","toSide":"left"},
+		{"id":"8324ba29a4628278","fromNode":"660727f2573659ef","fromSide":"top","toNode":"a71a1005ba2790c6","toSide":"top"},
+		{"id":"a8011e73bf7285bd","fromNode":"6629ce692cd1fbc6","fromSide":"top","toNode":"eb22a7ff845ab9c0","toSide":"left"},
+		{"id":"01ee9850e1b34c5b","fromNode":"6629ce692cd1fbc6","fromSide":"right","toNode":"eb22a7ff845ab9c0","toSide":"bottom"}
 	]
 }
