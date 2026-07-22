@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
+                "file": "1CSharp开发/1.1WPF/1.1.2简单的WPF程序.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "1.1.2简单的WPF程序 的大纲"
             }
           },
           {
@@ -175,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -193,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1f6d5e390ba2d51",
+  "active": "12cd18c27371bd94",
   "lastOpenFiles": [
     "Pasted image 20260722155021.png",
     "1CSharp开发/1.1WPF/未命名.canvas",
