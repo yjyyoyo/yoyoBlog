@@ -15,9 +15,9 @@
               "state": {
                 "file": "1CSharp开发/1.1WPF/未命名.canvas",
                 "viewState": {
-                  "x": -515.0400000000001,
-                  "y": 491.9699999999999,
-                  "zoom": 0
+                  "x": 1206.274874701846,
+                  "y": 1814.4121832137475,
+                  "zoom": -0.32489407899479356
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0267443e05589172",
