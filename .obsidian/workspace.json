@@ -11,17 +11,14 @@
             "id": "c1f6d5e390ba2d51",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1CSharp开发/1.1WPF/1.1.0WPF知识图谱.canvas",
-                "viewState": {
-                  "x": -90.5,
-                  "y": -111.1067928730512,
-                  "zoom": -0.6789753148042212
-                }
+                "file": "1CSharp开发/1.1WPF/1.1.0 WPF知识网络.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "1.1.0WPF知识图谱"
+              "icon": "lucide-file",
+              "title": "1.1.0 WPF知识网络"
             }
           }
         ]
@@ -198,6 +195,8 @@
   },
   "active": "c1f6d5e390ba2d51",
   "lastOpenFiles": [
+    "1CSharp开发/1.1WPF/1.1.0WPF知识图谱.canvas",
+    "1CSharp开发/1.1WPF/1.1.0 WPF知识网络.md",
     "1CSharp开发/1.1WPF/1.1.1WPF学习记录.md",
     "Pasted image 20260722145521.png",
     "0工具安装配置/0.1常用工具使用教程.md",
@@ -208,7 +207,6 @@
     "0工具安装配置/0.0工具安装目录.md",
     "1CSharp开发/1.2Winform/1.2.1Winform学习记录.md",
     "tags.md",
-    "1CSharp开发/1.1WPF/1.1.0WPF知识图谱.canvas",
     "未命名.md",
     "1CSharp开发/1.2Winform",
     "1CSharp开发/1.1WPF",
