@@ -11,17 +11,14 @@
             "id": "c1f6d5e390ba2d51",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1CSharp开发/1.1WPF/未命名.canvas",
-                "viewState": {
-                  "x": 1206.274874701846,
-                  "y": 1814.4121832137475,
-                  "zoom": -0.32489407899479356
-                }
+                "file": "1CSharp开发/1.1WPF/1.1.2简单的WPF程序.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "1.1.2简单的WPF程序"
             }
           }
         ]
@@ -81,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "0267443e05589172",
@@ -199,8 +195,10 @@
   },
   "active": "c1f6d5e390ba2d51",
   "lastOpenFiles": [
-    "1CSharp开发/1.1WPF/1.1.0 WPF知识网络.md",
+    "Pasted image 20260722155021.png",
     "1CSharp开发/1.1WPF/未命名.canvas",
+    "1CSharp开发/1.1WPF/1.1.2简单的WPF程序.md",
+    "1CSharp开发/1.1WPF/1.1.0 WPF知识网络.md",
     "1CSharp开发/1.1WPF/1.1.0 线性知识网络.md",
     "1CSharp开发/1.1WPF/1.1.0WPF知识图谱.canvas",
     "1CSharp开发/1.1WPF/1.1.1WPF学习记录.md",
