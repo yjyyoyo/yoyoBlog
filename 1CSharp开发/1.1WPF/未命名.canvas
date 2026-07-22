@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"9073b485f0290297","x":-1320,"y":-240,"width":250,"height":60,"color":"1","type":"text","text":"1.1.0 线性知识网络"},
+		{"id":"dfaa2004ce7c59aa","x":-948,"y":-251,"width":250,"height":60,"type":"text","text":"1.基础架构Architecture"},
+		{"id":"ad725849cea223ff","x":-948,"y":-40,"width":250,"height":60,"type":"text","text":"2.核心机制Core Engines"},
+		{"id":"605297d0245b63fb","x":-948,"y":120,"width":250,"height":60,"type":"text","text":"3.界面Layout&Controls"},
+		{"id":"066febca6db1fb02","x":-948,"y":280,"width":250,"height":60,"type":"text","text":"4.数据绑定&MVVM Data&Architecture"},
+		{"id":"8f975706be8ac54a","x":-948,"y":440,"width":250,"height":60,"type":"text","text":"5.样式、模板与视觉 Styling&Visuals"},
+		{"id":"94a17448272008fb","x":-948,"y":600,"width":250,"height":50,"type":"text","text":"6.进阶与性能 Advanced&Performance"}
+	],
+	"edges":[]
+}
