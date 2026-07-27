@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f1e515f70e7c3614",
+        "id": "4fc76e51c330eabd",
         "type": "tabs",
         "children": [
           {
-            "id": "c1f6d5e390ba2d51",
+            "id": "17520f4d2eb75e78",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1CSharp开发/1.1WPF/1.1.0.0 项目记录.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1.1.0.0 项目记录"
+              "title": "新标签页"
             }
           }
         ]
@@ -155,13 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1CSharp开发/1.1WPF/1.1.0.0 项目记录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1.1.0.0 项目记录 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -175,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -193,13 +188,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1f6d5e390ba2d51",
+  "active": "329976786281cc7d",
   "lastOpenFiles": [
-    "1CSharp开发/1.1WPF/1.1.2简单的WPF程序.md",
+    "1CSharp开发/1.1WPF/1.1.1WPF学习记录.md",
     "1CSharp开发/1.1WPF/1.1.0.0 项目记录.md",
+    "1CSharp开发/1.1WPF/1.1.2简单的WPF程序.md",
     "1CSharp开发/1.1WPF/1.1.0 WPF知识网络.md",
     "1CSharp开发/1.1WPF/1.1.0WPF知识图谱.canvas",
-    "1CSharp开发/1.1WPF/1.1.1WPF学习记录.md",
     "Pasted image 20260727141005.png",
     "Pasted image 20260722161226.png",
     "Pasted image 20260722155021.png",
