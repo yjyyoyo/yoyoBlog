@@ -8,5 +8,26 @@
 
 # 界面
 - PS:
-	- 单选，设置为默认false；
-	- 
+	- 单选，设置为默认true;
+- Data.cs 存储登录数据；
+- Dao.cs 对数据库进行操作；
+
+- Dao.cs
+```Csharp
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BookMES
+{
+    class Data
+    {
+        public static string UID = "", UName = "";//登录用户的ID和用户名
+
+    }
+}
+```
+
+![[Pasted image 20260810202743.png]]
