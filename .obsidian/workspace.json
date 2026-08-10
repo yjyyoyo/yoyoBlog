@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1CSharp开发/1.0Csharp语言/1.0.1 总述和框图.md",
+                "file": "1CSharp开发/1.2Winform/C#图书管理系统项目.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.0.1 总述和框图"
+              "title": "C#图书管理系统项目"
             }
           }
         ]
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0267443e05589172",
@@ -199,6 +198,12 @@
   },
   "active": "c0715fc6f69b36c8",
   "lastOpenFiles": [
+    "1CSharp开发/1.2Winform/attachments/Pasted image 20260810195638.png",
+    "1CSharp开发/1.2Winform/attachments/Pasted image 20260810195508.png",
+    "1CSharp开发/1.2Winform/attachments/Pasted image 20260810195438.png",
+    "1CSharp开发/1.2Winform/attachments",
+    "1CSharp开发/1.0Csharp语言/1.0.1 总述和框图.md",
+    "1CSharp开发/1.2Winform/C#图书管理系统项目.md",
     "1CSharp开发/1.0Csharp语言/attachments/Pasted image 20260808225824.png",
     "1CSharp开发/1.0Csharp语言/attachments/Pasted image 20260808225800.png",
     "1CSharp开发/1.0Csharp语言/attachments/Pasted image 20260808225734.png",
@@ -207,12 +212,8 @@
     "1CSharp开发/1.0Csharp语言/attachments/Pasted image 20260808225518.png",
     "1CSharp开发/1.0Csharp语言/attachments/Pasted image 20260808225438.png",
     "1CSharp开发/1.0Csharp语言/attachments/Pasted image 20260808225006.png",
-    "1CSharp开发/1.0Csharp语言/attachments/Pasted image 20260808224925.png",
-    "1CSharp开发/1.0Csharp语言/attachments/Pasted image 20260808224922.png",
-    "1CSharp开发/1.0Csharp语言/attachments/Pasted image 20260808224849.png",
     "1CSharp开发/1.0Csharp语言/attachments",
     "1CSharp开发/1.0Csharp语言/Csharp知识点框图.canvas",
-    "1CSharp开发/1.0Csharp语言/1.0.1 总述和框图.md",
     "1CSharp开发/1.0Csharp语言/Csharp知识点.md",
     "1CSharp开发/1.1WPF/1.1.3 WPF核心知识点和虚拟传感器检测仪项目实战.md",
     "1CSharp开发/1.0Csharp语言",
@@ -243,7 +244,6 @@
     "README.md",
     "quartz-blog",
     "新建文件夹",
-    "新建 文本文档.txt",
     "欢迎.md"
   ]
 }
