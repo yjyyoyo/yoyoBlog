@@ -30,6 +30,13 @@ namespace BookMES
 }
 ```
 
-![[Pasted image 20260810202743.png]]s
+![[Pasted image 20260810202743.png]]
 
-- SQL Server:[SQL Server 2022 | Microsoft](https://www.microsoft.com/zh-cn/sql-server/sql-server-2022)
+
+# SSMS+SQL Server
+- SSMS(SQL Server Management Studio)
+	- [安装 SQL Server Management Studio | Microsoft Learn](https://learn.microsoft.com/zh-cn/ssms/install/install)
+- 微软SQL Server:[SQL Server 2022 | Microsoft](https://www.microsoft.com/zh-cn/sql-server/sql-server-2022)
+
+![[Pasted image 20260810213153.png]]- C:\Program Files\Microsoft SQL Server\160\Setup Bootstrap\Log\20260810_212849
+![[Pasted image 20260810213435.png|228]]
