@@ -80,7 +80,39 @@ namespace BookMES
 	- 改名
 		- ![[Pasted image 20260816065853.png|243]]
 		- ![[Pasted image 20260816065805.png|246]]
-	- 
+	- Form1.cs
+```CSharp
+private void button1_Click(object sender, EventArgs e)
+{
+    //判空,if空则登录
+    if (textBox1.Text != "" && textBox2.Text != "")
+    {
+        login();
+
+    }
+    else
+    {
+        MessageBox.Show("输入有空项,请重新输入");
+    }
+}
+//登录，验证是否允许登录，允许返回true
+public Boolean login()
+{
+    //用户
+    if (radioButtonUser.Checked == true)
+    {
+        Dao dao = new Dao();
+        string sql = "select * from t_user where id='" + textBox1.Text + "' and psw='" + textBox2.Text + "'";
+    }
+    //管理员
+    if (radioButtonAdmin.Checked == true)
+    {
+        Dao dao = new Dao();
+        string sql= "select * from t_admin where id='" + textBox1.Text + "' and psw='" + textBox2.Text + "'";
+    }
+    return true;
+}
+```
 
 
 # 3-管理员相关页面的布局设计
@@ -108,4 +140,11 @@ namespace BookMES
 
 
 # 附加-多行删除
+
+
+
+# 改进
+- 2-登陆功能的实现
+	- sql注入有风险，换种方式。
+	- 
 
