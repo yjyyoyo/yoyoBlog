@@ -9,7 +9,7 @@
 # 界面
 - PS:
 	- 单选，设置为默认true;
-- Data.cs 存储登录数据；
+- Data.cs 存储登录数据； 
 - Dao.cs 对数据库进行操作；
 
 - Dao.cs
