@@ -1,4 +1,23 @@
 [C# 图书管理系统 winform 入门教程 SqlServer数据库_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV14p4y1S7yk/?spm_id_from=333.337.search-card.all.click&vd_source=e7e5c9034979528d120ab89a1e74801a)
+
+# 架构(三层架构Three-Tier Architecture+DAO(Data Access Object))
+
+|          |                            |                         |     |
+| -------- | -------------------------- | ----------------------- | --- |
+| 表现层UI    | Form1.cs/Form1.Designer.cs | 用户界面展示与交互               |     |
+| 数据访问层DAL | Dao.cs                     | 封装所有数据库操作(连接、增删改查)      |     |
+| 数据/状态层   | Data.cs                    | 存储全局共享数据(当前登录用户的ID和用户名) |     |
+| 入口       | Program.cs                 | 程序启动入口                  |     |
+|          |                            |                         |     |
+- DAO模式:
+	- Dao.cs是典型的数据访问对象，把数据库的底层操作(连接、命令、执行、读取、关闭)全部封装在一个类中。
+	- UI层(Form1.cs)需要操作数据时，只需要调用Dao的方法并传入SQL语句即可，不需要关心连接怎么打开，怎么关闭。
+	- 标准三层结构
+		- [Winform的三层架构详细案例分析 - 码农阿亮 - 博客园](https://www.cnblogs.com/wml-it/p/15967883.html)
+		- ![[Pasted image 20260816062620.png|247]]
+
+
+
 # 效果
 ![[Pasted image 20260810195438.png|293]]
 ![[Pasted image 20260810195508.png|355]]
