@@ -172,4 +172,7 @@ namespace BookMES
 # 小tips
 - 及时清理解决方案。
 ![[Pasted image 20260816080529.png|259]]
-- 
+- .Show和.ShowDialog的区别
+	- .Show后还可以对原窗体进行操作。
+	- .ShowDialog:必须把对话框关掉，才能继续操作。
+	- 
