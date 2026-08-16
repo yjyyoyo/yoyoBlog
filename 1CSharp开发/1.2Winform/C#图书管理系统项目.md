@@ -82,38 +82,58 @@ namespace BookMES
 		- ![[Pasted image 20260816065805.png|246]]
 	- Form1.cs
 ```CSharp
-private void button1_Click(object sender, EventArgs e)
-{
-    //判空,if空则登录
-    if (textBox1.Text != "" && textBox2.Text != "")
-    {
-        login();
+  //登录，验证是否允许登录，允许返回true
+  public Boolean login()
+  {
+      //用户
+      if (radioButtonUser.Checked == true)
+      {
+          Dao dao = new Dao();
+          //3种方式
+          string sql = "select * from t_user where id='" + textBox1.Text + "' and psw='" + textBox2.Text + "'";
+          ////使用 {0} 和 {1} 作为占位符，依次替换为后面的参数。
+          //string sql2 = String.Format("select * from t_user where id='{0}' and psw='{1}'", textBox1.Text, textBox2.Text);
+          //string sql3 = $"select * from t_user where id='{textBox1.Text}' and psw='{textBox2.Text}'";
+          //if (sql == sql2 && sql2 == sql3)
+          //{
+          //    MessageBox.Show("1");
+          //}
 
-    }
-    else
-    {
-        MessageBox.Show("输入有空项,请重新输入");
-    }
-}
-//登录，验证是否允许登录，允许返回true
-public Boolean login()
-{
-    //用户
-    if (radioButtonUser.Checked == true)
-    {
-        Dao dao = new Dao();
-        string sql = "select * from t_user where id='" + textBox1.Text + "' and psw='" + textBox2.Text + "'";
-    }
-    //管理员
-    if (radioButtonAdmin.Checked == true)
-    {
-        Dao dao = new Dao();
-        string sql= "select * from t_admin where id='" + textBox1.Text + "' and psw='" + textBox2.Text + "'";
-    }
-    return true;
-}
+          IDataReader dc = dao.read(sql);//提取数据
+          if (dc.Read())
+          {
+              MessageBox.Show("登录成功");
+              return true;
+          }
+          else
+          {
+              MessageBox.Show("登录失败");
+              return false;
+          }
+      }
+      //管理员
+      if (radioButtonAdmin.Checked == true)
+      {
+          Dao dao = new Dao();
+          string sql= "select * from t_admin where id='" + textBox1.Text + "' and psw='" + textBox2.Text + "'";
+          IDataReader dc = dao.read(sql);//提取数据
+          if (dc.Read())
+          {
+              MessageBox.Show("登录成功");
+              return true;
+          }
+          else
+          {
+              MessageBox.Show("登录失败");
+              return false;
+          }
+      }
+      return true;
+  }
 ```
 
+- ![[Pasted image 20260816080615.png|262]]
+- ![[Pasted image 20260816080829.png|275]]
 
 # 3-管理员相关页面的布局设计
 
@@ -146,5 +166,10 @@ public Boolean login()
 # 改进
 - 2-登陆功能的实现
 	- sql注入有风险，换种方式。
-	- 
 
+
+
+# 小tips
+- 及时清理解决方案。
+![[Pasted image 20260816080529.png|259]]
+- 
