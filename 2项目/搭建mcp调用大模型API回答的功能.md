@@ -16,7 +16,7 @@
 - 逻辑:
 	- 需要搭建MCP Server,和MCP Client，将一个MCP Client设置为大模型，通过MCP Server调用MCP Client大模型，向数据库和前端返回回答。
 - 过程
-	- 安装NuGet包 `dotnet add package Microsoft.SemanticKernel`
+	- 安装NuGet包 `dotnet add package Microsoft.SemanticKernel`和`OpenAI`
 		- ![[Pasted image 20260901193254.png|223]]
 	- 创建LLM服务类
 		- 思路:
