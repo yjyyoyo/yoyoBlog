@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d2a723238b13d779",
+        "id": "b401c6bc2d740906",
         "type": "tabs",
         "children": [
           {
-            "id": "8a5b6502c3546ea2",
+            "id": "c0c4b9ea73c12e76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2项目/搭建mcp调用大模型API回答的功能.md",
+                "file": "1CSharp开发/1.3零散知识/知识链接.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "搭建mcp调用大模型API回答的功能"
+              "title": "知识链接"
             }
           }
         ]
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338,
-    "collapsed": true
+    "width": 338
   },
   "right": {
     "id": "0267443e05589172",
@@ -197,11 +196,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a5b6502c3546ea2",
+  "active": "c0c4b9ea73c12e76",
   "lastOpenFiles": [
+    "1CSharp开发/1.3零散知识/知识链接.md",
+    "1CSharp开发/1.3零散知识",
+    "2项目/搭建mcp调用大模型API回答的功能.md",
     "1CSharp开发/1.1WPF/1.1.0WPF知识图谱.canvas",
     "1CSharp开发/1.1WPF/1.1.0 WPF知识网络.md",
-    "2项目/搭建mcp调用大模型API回答的功能.md",
     "2项目/attachments/Pasted image 20260901193254.png",
     "2项目/attachments/Pasted image 20260901192053.png",
     "2项目/attachments",
@@ -243,7 +244,6 @@
     "未命名.md",
     "1CSharp开发/1.2Winform",
     "1CSharp开发/1.1WPF",
-    "1CSharp开发",
     "未命名.canvas",
     "2023-10-25.md",
     "README.md",
