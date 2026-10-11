@@ -11,10 +11,14 @@
             "id": "691b294b16052b29",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.嵌入式/stm32/stm32知识网络.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "stm32知识网络"
             }
           }
         ]
@@ -192,10 +196,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d25066d56e3fa6b4",
+  "active": "691b294b16052b29",
   "lastOpenFiles": [
-    "3.单片机/stm32",
-    "3.单片机",
+    "未命名.md",
+    "3.嵌入式/stm32/stm32知识网络.md",
+    "3.嵌入式/stm32",
+    "3.嵌入式",
     "1CSharp开发/1.0Csharp语言/1.0.2面向对象.md",
     "1CSharp开发/1.0Csharp语言/attachments/Pasted image 20260902214532.png",
     "1CSharp开发/1.0Csharp语言/attachments/Pasted image 20260902211101.png",
@@ -231,7 +237,6 @@
     "1CSharp开发/1.1WPF/1.1.2简单的WPF程序.md",
     "1CSharp开发/1.1WPF/1.1.0 常用代码和结构.md",
     "1CSharp开发/1.1WPF/1.1.0.0 项目记录.md",
-    "1CSharp开发/1.1WPF/attachments",
     "1CSharp开发/1.1WPF/未命名.canvas",
     "1CSharp开发/1.1WPF/1.1.0 线性知识网络.md",
     "0工具安装配置/0.1常用工具使用教程.md",
@@ -241,7 +246,6 @@
     "0工具安装配置/0.0工具安装目录.md",
     "1CSharp开发/1.2Winform/1.2.1Winform学习记录.md",
     "tags.md",
-    "未命名.md",
     "未命名.canvas",
     "2023-10-25.md"
   ]
