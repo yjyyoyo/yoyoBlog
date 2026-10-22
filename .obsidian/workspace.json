@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "44ef5b2e09a6179e",
+        "id": "fcb10ffe6767ac58",
         "type": "tabs",
         "children": [
           {
-            "id": "049ce4658a656475",
+            "id": "fc51442a76b0441d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -191,10 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "329976786281cc7d",
+  "active": "fc51442a76b0441d",
   "lastOpenFiles": [
-    "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/00.课程资料.md",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/0.准备.md",
+    "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/00.课程资料.md",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261022212423.png",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261022212405.png",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261022202550.png",
