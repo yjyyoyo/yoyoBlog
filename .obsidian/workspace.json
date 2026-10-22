@@ -11,10 +11,14 @@
             "id": "fc51442a76b0441d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0工具安装配置/0.1常用工具使用教程.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "0.1常用工具使用教程"
             }
           }
         ]
@@ -193,6 +197,8 @@
   },
   "active": "fc51442a76b0441d",
   "lastOpenFiles": [
+    "0工具安装配置/0.3 个人博客.md",
+    "0工具安装配置/0.1常用工具使用教程.md",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/0.准备.md",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/00.课程资料.md",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261022212423.png",
@@ -236,10 +242,8 @@
     "1CSharp开发/1.1WPF/1.1.0.0 项目记录.md",
     "1CSharp开发/1.1WPF/未命名.canvas",
     "1CSharp开发/1.1WPF/1.1.0 线性知识网络.md",
-    "0工具安装配置/0.1常用工具使用教程.md",
     "0工具安装配置/0.2Obsidian常用插件.md",
     "index.md",
-    "0工具安装配置/0.3 个人博客.md",
     "0工具安装配置/0.0工具安装目录.md",
     "未命名.canvas"
   ]
