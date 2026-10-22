@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0394ca5922c8fb21",
+        "id": "44ef5b2e09a6179e",
         "type": "tabs",
         "children": [
           {
-            "id": "5ece9b18b9fb21d6",
+            "id": "049ce4658a656475",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/0.准备.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "0.准备"
+              "title": "新标签页"
             }
           }
         ]
@@ -80,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "right": {
     "id": "0267443e05589172",
@@ -178,12 +173,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 644
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,15 +191,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ece9b18b9fb21d6",
+  "active": "329976786281cc7d",
   "lastOpenFiles": [
+    "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/00.课程资料.md",
+    "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/0.准备.md",
+    "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261022212423.png",
+    "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261022212405.png",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261022202550.png",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261022201813.png",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261022201709.png",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261022201644.png",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments",
-    "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/00.课程资料.md",
-    "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/0.准备.md",
     "3.嵌入式/stm32/stm32知识网络.md",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目",
     "未命名.md",
@@ -217,12 +213,9 @@
     "1CSharp开发/1.0Csharp语言/attachments/Pasted image 20260902210854.png",
     "1CSharp开发/1.0Csharp语言/attachments/Pasted image 20260902210530.png",
     "1CSharp开发/1.0Csharp语言/1.0.1 总述和框图.md",
-    "1CSharp开发/1.0Csharp语言/attachments/Pasted image 20260902210119.png",
     "1CSharp开发/1.0Csharp语言/Csharp知识点框图.canvas",
     "1CSharp开发/1.0Csharp语言/Csharp知识点.md",
     "1CSharp开发/1.3零散知识/知识链接.md",
-    "1CSharp开发/1.3零散知识/attachments/Pasted image 20260902204140.png",
-    "1CSharp开发/1.3零散知识/attachments/Pasted image 20260902204122.png",
     "1CSharp开发/1.3零散知识/attachments",
     "1CSharp开发/1.3零散知识",
     "2项目/搭建mcp调用大模型API回答的功能.md",
