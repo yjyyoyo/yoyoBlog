@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "0267443e05589172",
@@ -181,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,6 +199,8 @@
   },
   "active": "620bbcc1b4c3dcb5",
   "lastOpenFiles": [
+    "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261102064600.png",
+    "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261102063945.png",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261028064507.png",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261028063741.png",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261027064739.png",
@@ -208,13 +212,11 @@
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261025222813.png",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261025214249.png",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261025214219.png",
-    "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261025214207.png",
     "0工具安装配置/0.1常用工具使用教程.md",
     "index.md",
     "index.md.tmp.19076.2f51e55ae3a8",
     "0工具安装配置/0.3 个人博客.md",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/00.课程资料.md",
-    "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261022212423.png",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments",
     "3.嵌入式/stm32/stm32知识网络.md",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目",
