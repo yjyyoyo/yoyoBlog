@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9475f808e75ce409",
+        "id": "f71c27cbec5dd610",
         "type": "tabs",
         "children": [
           {
-            "id": "620bbcc1b4c3dcb5",
+            "id": "e118979b1866a892",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/0.准备.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "0.准备"
+              "title": "新标签页"
             }
           }
         ]
@@ -182,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 1118.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,8 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "620bbcc1b4c3dcb5",
+  "active": "329976786281cc7d",
   "lastOpenFiles": [
+    "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/0.准备.md",
+    "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261103070843.png",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261102064600.png",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261102063945.png",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261028064507.png",
@@ -207,11 +204,8 @@
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261027064659.png",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261027064632.png",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261027064607.png",
-    "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/0.准备.md",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/1.4 example1_led.ioc",
     "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261025222813.png",
-    "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261025214249.png",
-    "3.嵌入式/FreeRTOS教程-基于HAL库自带示波器项目/attachments/Pasted image 20261025214219.png",
     "0工具安装配置/0.1常用工具使用教程.md",
     "index.md",
     "index.md.tmp.19076.2f51e55ae3a8",
